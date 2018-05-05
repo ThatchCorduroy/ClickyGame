@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Col, Row, Container } from "./components/Grid";
 import Nav from "./components/Nav";
 import Name from "./components/Name";
 import Inst from "./components/Inst";
@@ -7,8 +6,6 @@ import Score from "./components/Score";
 import Intro from "./components/Intro";
 import Images from "./components/Images";
 import ImageCard from "./components/ImageCard";
-import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import images from "./images.json";
 import "./App.css";
 
